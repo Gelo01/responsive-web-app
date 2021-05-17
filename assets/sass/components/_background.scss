@@ -1,0 +1,51 @@
+/** @format */
+.bg-img {
+  background-image: url("/assets/img/bg-1.PNG");
+  background-color: $BG_COLOR;
+  height: 1040px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-sctn-3 {
+  background-image: url("/assets/img/bg-3.PNG");
+  background-color: $BG_COLOR;
+  height: 1172px;
+  width: 1440px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-sctn-5 {
+  background-image: url("/assets/img/bg-5.PNG");
+  background-color: $BG_COLOR;
+  height: 1721px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-sctn-8 {
+  background-image: url("/assets/img/bg-8.PNG");
+  background-color: $BG_COLOR;
+  height: 1180px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-sctn-10 {
+  background-image: url("/assets/img/bg-10.PNG");
+  background-color: $BG_COLOR;
+  width: 1170px;
+  height: 448px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.bg-sctn-btm {
+  background-image: url("/assets/img/bg-10-11.PNG");
+  background-color: $BG_COLOR;
+  height: 1061px;
+  background-position: center;
+  background-size: cover;
+}

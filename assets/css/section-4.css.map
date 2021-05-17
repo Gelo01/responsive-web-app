@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,cAAc;AAEd,AAAA,aAAa,CAAC;EACZ,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;CACf;;AAED,AAAA,WAAW,CAAC;EACV,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,OAAO;EACzB,aAAa,EAAE,IAAI;CAGpB;;AAED,AAAA,cAAc,CAAC;EACb,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,aAAa,EAAE,GAAG;EAClB,gBAAgB,EAAE,OAAO;CAM1B",
+    "sources": [
+        "../sass/layout/section-4.scss"
+    ],
+    "names": [],
+    "file": "section-4.css"
+}

@@ -1,0 +1,20 @@
+/** @format */
+.sctn-4-props {
+  width: 1440px;
+  height: 1262px;
+}
+
+.sectn-4-bx {
+  width: 370px;
+  height: 304px;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.sectn-4-bx-lg {
+  width: 370px;
+  height: 640px;
+  border-radius: 10%;
+  background-color: #8453f7;
+}
+/*# sourceMappingURL=section-4.css.map */

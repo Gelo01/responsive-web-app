@@ -1,0 +1,53 @@
+/** @format */
+.btn {
+  border-radius: 20px;
+  border-color: white;
+}
+
+.btn-header {
+  width: 138px;
+  height: 48px;
+  background-color: $COLOR_PRIMARY;
+  color: $BTN_TEXT_COLOR;
+  // position: center;
+}
+
+.btn-title {
+  width: 202px;
+  height: 48px;
+  background-color: $BTN_COLOR;
+  color: $BTN_TEXT_COLOR;
+}
+
+.btn-services {
+  width: 186px;
+  height: 48px;
+  color: $TEXT_COLOR_SC;
+  background-color: $BG_COLOR;
+  border-color: $TEXT_COLOR_SC;
+  border-radius: 20px;
+}
+
+.stn-7-btn {
+  width: 140px;
+  height: 48px;
+  background-color: $TEXT_COLOR_SC;
+  color: $BTN_TEXT_COLOR;
+  border-radius: 8px;
+}
+
+.ninth-section-btn {
+  width: 170px;
+  height: 48px;
+  background-color: $BG_COLOR;
+  border-style: solid #f3eeff;
+  color: $TEXT_COLOR_SC;
+  border-radius: 10px;
+}
+
+.sctn-4-blue-btn-props {
+  width: 170px;
+  height: 48px;
+  background: linear-gradient(135deg, #93f6a5 0%, #58d2e5 100%);
+  border-radius: 24px;
+}
