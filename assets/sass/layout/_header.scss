@@ -17,6 +17,10 @@
 .contact-header {
   padding-left: 150px;
   padding-top: 16px;
+
+  @media screen and (max-width: 768px) {
+    display: none;
+  }
 }
 
 .comp_icon-head {
@@ -34,4 +38,8 @@
   display: flex;
   justify-content: space-between;
   color: $BTN_TEXT_COLOR;
+
+  @media screen and (max-width: 768px) {
+    display: none;
+  }
 }

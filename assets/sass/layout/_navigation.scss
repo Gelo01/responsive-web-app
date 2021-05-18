@@ -5,6 +5,14 @@
   height: 32px;
   padding-top: 186px;
 }
+.h-title-area-main-props {
+  @media screen and (max-width: 768px) {
+    .grid {
+      grid-template-columns: 1 fr;
+      grid-row: 8 / span 1;
+    }
+  }
+}
 
 .h-title {
   color: $TEXT_COLOR_SC;
@@ -46,15 +54,35 @@
 }
 
 .mktng-pic-header {
+  padding-top: 20px;
+  @media screen and (max-width: 768px) {
+    padding-top: 20px;
+    width: 328px;
+    height: 300px;
+  }
+}
+.mktng-pic-header-main {
   padding-right: 40px;
-  width: 670px;
-  height: 750px;
+  padding-top: 20px;
+  // width: 670px;
+  // height: 750px;
+  @media screen and (max-width: 768px) {
+    // padding-top: 20px;
+    // width: 428px;
+    // height: 400px;
+    // padding-right: 400px;
+    // grid-row: 40px;
+  }
 }
 
 .mktng-pic-nav {
   width: 728.74px;
   height: 660.34px;
   padding-right: 37px;
+  @media screen and (max-width: 768px) {
+    width: 329px;
+    height: 336px;
+  }
 }
 
 .pd-r {

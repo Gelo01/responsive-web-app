@@ -17,6 +17,11 @@ body {
   // ORbackground-color: $BG_COL;
   margin-left: 170px;
   margin-right: 170px;
+  @media screen and (max-width: 768px) {
+    width: 670px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
 }
 
 *,
